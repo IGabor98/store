@@ -5,3 +5,4 @@ __pycache
 .env.db
 .idea/
 staticfiles/
+./app/*.sqlite3
